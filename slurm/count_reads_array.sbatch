@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+#SBATCH -A evoanalysis
 #SBATCH --job-name=readcount
 #SBATCH --output=readcount_%A_%a.out
 #SBATCH --error=readcount_%A_%a.err

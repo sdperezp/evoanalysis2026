@@ -1,0 +1,2 @@
+File: PBMLT02_171.combined_final.fastq
+Reads: 2991825

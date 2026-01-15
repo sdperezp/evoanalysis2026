@@ -1,0 +1,2 @@
+File: PBM15_1578.combined_final.fastq
+Reads: 2489917
